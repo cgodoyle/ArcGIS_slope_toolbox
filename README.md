@@ -23,7 +23,8 @@ There is no publication direclty describing this toolbox, but you may cite this 
 Godoy, C. (2023): ArcGIS slope toolbox, https://github.com/cgodoyle/Arcgis_slope_toolbox
 
 ## Reporting a bug and feedback
-If you find a bug, we appreciate if you report it to crgo@nve.no. Other feedbacks or ideas are welcome as well.
+If you find a bug or have any feedback or ideas, I appreciate if you send me a message to crgo@nve.no. 
+
 
 ## References
 **NVE (2020), Veileder nr. 1/2019**. Sikkerhet mot kvikkleireskred : vurdering av områdestabilitet ved
