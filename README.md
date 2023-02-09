@@ -15,7 +15,7 @@ Pay particular attention to:
 - The toolbox is intended as an aid for geotechnical assessment - not as a replacement. The user must always use his own judgment.
 
 ## Installation
-Download ArcGIS_slope_toolbox.zip from **Releases**. <br />
+Download ArcGIS_slope_toolbox.zip from **Releases** ------------> <br />
 Unzip the toolbox's content on your computer. <br />In ArcGIS Pro, go to the catalog pane and right-click on Toolboxes to add the toolbox.
 
 ## Usage
