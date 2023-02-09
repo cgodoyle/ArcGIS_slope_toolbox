@@ -1,5 +1,5 @@
-# ArcGIS slope toolbox for evaluating terrain criteria (NVE 1/2019 3.2 step 3)
-Arcgis toolbox for calculating slope with respect to source points as in the terrain criteria in NVE 1/2019 (3.2 step 3).
+# ArcGIS slope toolbox for evaluating terrain criteria
+ArcGIS toolbox for calculating slope with respect to source points as in the terrain criteria in NVE 1/2019 (3.2 step 3).
 
 ![terrengkriterier](terrengkriterier.png)
 
@@ -18,12 +18,19 @@ Pay particular attention to:
 Download ArcGIS_slope_toolbox.zip from **Releases**. <br />
 Unzip the toolbox's content on your computer. <br />In ArcGIS Pro, go to the catalog pane and right-click on Toolboxes to add the toolbox.
 
+## Usage
+You need to have a DEM (Digital Elevation Model) and a polyline feature class representing the source points. <br />
+The source points must have a field called **ewd** (estimated water depht). Alternatively you can use a point feature class but it should come with the point's elevation as a field ("RASTERVALU") in adition to the ewd field.<br />
+
+See the toolbox's information dialog next to the inputs for more details. <br />
+
 ## Citing this tool
 There is no publication direclty describing this toolbox, but you may cite this Github repository: 
 Godoy, C. (2023): ArcGIS slope toolbox, https://github.com/cgodoyle/Arcgis_slope_toolbox
 
 ## Reporting a bug and feedback
-If you find a bug or have any feedback or ideas, I appreciate if you send me a message to crgo@nve.no. 
+If you find a bug, or have any feedback, ideas or comments, please email me at [crgo@nve.no](mailto:crgo@nve.no).
+
 
 
 ## References
