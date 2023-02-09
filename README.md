@@ -6,6 +6,7 @@ Arcgis toolbox for calculating slope with respect to source points as in the ter
 ## Disclaimer
 
 **This is not an official NVE product**.<br />
+This toolbox is under development and may contain errors. <br />
 It is assumed that the user has sufficient understanding of the procedure for assessing terrain criteria in accordance with NVE 1/2019. 
 Pay particular attention to:
 
