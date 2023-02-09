@@ -5,13 +5,14 @@ Arcgis toolbox for calculating slope with respect to source points as in the ter
 
 
 ## Installation
-Save the toolbox ("slope_toolbox.pyt") on your computer. In ArcGIS Pro, go to the catalog pane and right-click on Toolboxes to add the toolbox.
+Download ArcGIS_slope_toolbox.zip from **Releases**. <br />
+Unzip the toolbox's content on your computer. <br />In ArcGIS Pro, go to the catalog pane and right-click on Toolboxes to add the toolbox.
 
 ## Citing this tool
 There is no publication direclty describing this toolbox, but you may cite this Github repository: 
 Godoy, C. (2023): ArcGIS slope toolbox, https://github.com/cgodoyle/Arcgis_slope_toolbox
 
-## Reporting a bug
+## Reporting a bug and feedback
 If you find a bug, we appreciate if you report it to crgo@nve.no. Other feedbacks or ideas are welcome as well.
 
 ## References
