@@ -24,6 +24,14 @@ The source points must have a field called **ewd** (estimated water depht). Alte
 
 See the toolbox's information dialog next to the inputs for more details. <br />
 
+#### Recommended symbology for the output: <br />
+4 slope intervals with the following values <br />
+1. 0 -0.05 (<1:20)
+2. 0.05-0.067 (1:20-1:15)
+3. 0.067-0.2 (1:15-1:5)
+4. 0.2-9999 (>1:5)
+    
+
 ## Citing this tool
 There is no publication direclty describing this toolbox, but you may cite this Github repository: 
 Godoy, C. (2023): ArcGIS slope toolbox, https://github.com/cgodoyle/Arcgis_slope_toolbox
