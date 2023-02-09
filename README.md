@@ -36,7 +36,7 @@ See the toolbox's information dialog next to the inputs for more details. <br />
     
 
 ## Citing this tool
-There is no publication direclty describing this toolbox, but you may cite this Github repository: 
+There is no publication direclty describing this toolbox, but you may cite this Github repository: <br />
 Godoy, C. (2023): ArcGIS slope toolbox, https://github.com/cgodoyle/Arcgis_slope_toolbox
 
 ## Reporting a bug and feedback
