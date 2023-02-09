@@ -3,6 +3,15 @@ Arcgis toolbox for calculating slope with respect to source points as in the ter
 
 ![terrengkriterier](terrengkriterier.png)
 
+## Disclaimer
+
+**This is not an official NVE product**.<br />
+It is assumed that the user has sufficient understanding of the procedure for assessing terrain criteria in accordance with NVE 1/2019. 
+Pay particular attention to:
+
+- Take into account all possible source points where landslides can be initiated. An area can have runouts in several directions!
+- Depth to source points must be assessed in each case. Each line can have different depths (ewd).
+- The toolbox is intended as an aid for geotechnical assessment - not as a replacement. The user must always use his own judgment.
 
 ## Installation
 Download ArcGIS_slope_toolbox.zip from **Releases**. <br />
