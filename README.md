@@ -19,7 +19,8 @@ Pay particular attention to:
 
 [ArcGIS_slope_toolbox.zip](https://github.com/cgodoyle/ArcGIS_slope_toolbox/files/10698284/ArcGIS_slope_toolbox.zip) <br />
 
-Download and unzip files. <br />In ArcGIS Pro, go to the catalog pane and right-click on Toolboxes to add the toolbox.
+Download and unzip files. <br />In ArcGIS Pro, go to the catalog pane and right-click on Toolboxes to add the toolbox. <br /> <br />
+**The toolbox requires an ArcGIS Spatial Analyst license**. 
 
 ## Usage
 You need to have a DEM (Digital Elevation Model) and a polyline feature class representing the source points. <br />
